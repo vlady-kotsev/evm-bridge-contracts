@@ -1,5 +1,6 @@
 <div align="center">
-    <img width="300px" src="https://github.com/user-attachments/assets/71d9d2e4-f851-4d1c-8a69-9012c41f4f19" alt="Tsunagaru_logo">
+<!--     <img width="300px" src="https://github.com/user-attachments/assets/71d9d2e4-f851-4d1c-8a69-9012c41f4f19" alt="Tsunagaru_logo"> -->
+     <img width="300px" src="https://github.com/user-attachments/assets/5a5bc3a8-db51-4648-9cee-ab7c01643c7f" alt="Tsunagaru_logo">
   <h1>Tsunagari/つながり</h1>
 </div>
 
