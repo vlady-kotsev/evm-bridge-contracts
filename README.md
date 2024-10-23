@@ -1,5 +1,5 @@
 <div align="center">
-  ![Tsunagaru_logo](https://github.com/user-attachments/assets/16040a17-3296-4a64-ac77-0e9ac0a82fe1)
+    <img width="300px" src="https://github.com/user-attachments/assets/71d9d2e4-f851-4d1c-8a69-9012c41f4f19" alt="Tsunagaru_logo">
   <h1>Tsunagari/つながり</h1>
 </div>
 
